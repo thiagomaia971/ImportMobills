@@ -118,8 +118,40 @@
             "Descrição": "VIA SUL SHOPPING"
         },
         {
-            "Categoria": "Relacionados a Automotivo",
-            "Descrição": "GIGA PARK ESTACIONAMEN"
+            "Categoria": null,
+            "Descrição": "ESTACIONAMEN"
+        }
+      ],
+      "Manutenção": [
+        {
+          "Categoria": null,
+          "Descrição": "NACIONAL VEICULOS"
+        },
+        {
+          "Categoria": "Seguro",
+          "Descrição": null
+        }
+      ],
+      "Gasolina": [
+        {
+          "Categoria": "Relacionados a Automotivo",
+          "Descrição": "POSTO"
+        },
+        {
+          "Categoria": "Relacionados a Automotivo",
+          "Descrição": "GACOMERCIODE"
+        }
+      ],
+      "Serviços": [
+        {
+          "Categoria": null,
+          "Descrição": "Anuidade Diferenciada"
+        }
+      ],
+      "Lazer": [
+        {
+          "Categoria": "Entretenimento",
+          "Descrição": null
         }
       ]
     }
