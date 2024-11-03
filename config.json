@@ -1,0 +1,127 @@
+{
+    "fixed_account": "C6 Bank",
+    "remove_descriptions": [
+      "Inclusao de Pagamento"
+    ],
+    "category_mappings": {
+      "Streamings": [
+        {
+          "Categoria": "TV por assinatura / Serviços de rádio",
+          "Descrição": null
+        },
+        {
+          "Categoria": null,
+          "Descrição": "GOOGLE ONE"
+        },
+        {
+          "Categoria": null,
+          "Descrição": "APPLE.COM/BILL"
+        }
+      ],
+      "Compras": [
+        {
+          "Categoria": "Departamento / Desconto",
+          "Descrição": null
+        },
+        {
+          "Categoria": null,
+          "Descrição": "EXALLA COSMETICOS"
+        },
+        {
+          "Categoria": null,
+          "Descrição": "SHOPEE"
+        },
+        {
+          "Categoria": null,
+          "Descrição": "ALIEXPRESS"
+        }
+      ],
+      "Telefone": [
+        {
+          "Categoria": "Serviços de telecomunicações",
+          "Descrição": "CONTA VIVO"
+        },
+        {
+          "Categoria": "Serviços de telecomunicações",
+          "Descrição": "VIVO EASY"
+        }
+      ],
+      "Internet": [
+        {
+          "Categoria": "Serviços de telecomunicações",
+          "Descrição": "P3TETCOM"
+        }
+      ],
+      "Educação": [
+        {
+          "Categoria": "Serviços pessoais",
+          "Descrição": "COLEGIO CONEXAO SABER"
+        },
+        {
+          "Categoria": "Educacional",
+          "Descrição": null
+        }
+      ],
+      "Energia": [
+        {
+          "Categoria": null,
+          "Descrição": "SOU ENERGY"
+        },
+        {
+          "Categoria": null,
+          "Descrição": "TON VIVIANA DE C"
+        }
+      ],
+      "Bart": [
+        {
+          "Categoria": null,
+          "Descrição": "PRO CAMPO"
+        }
+      ],
+      "Supermercado": [
+        {
+          "Categoria": "Supermercados / Mercearia / Padarias / Lojas de Conveniência",
+          "Descrição": null
+        },
+        {
+          "Categoria": null,
+          "Descrição": "ASSAI ATACADISTA"
+        }
+      ],
+      "Restaurante": [
+        {
+          "Categoria": "Restaurante / Lanchonete / Bar",
+          "Descrição": null
+        }
+      ],
+      "Saúde": [
+        {
+          "Categoria": "Assistência médica e odontológica",
+          "Descrição": null
+        }
+      ],
+      "Vestuário": [
+        {
+          "Categoria": "Vestuário / Roupas",
+          "Descrição": null
+        }
+      ],
+      "Academia": [
+        {
+          "Categoria": null,
+          "Descrição": "SMART FIT"
+        }
+      ],
+      "Estacionamento": [
+        {
+            "Categoria": "Relacionados a Automotivo",
+            "Descrição": "VIA SUL SHOPPING"
+        },
+        {
+            "Categoria": "Relacionados a Automotivo",
+            "Descrição": "GIGA PARK ESTACIONAMEN"
+        }
+      ]
+    }
+  }
+  
